@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">Aplikasi ListView</string>
+    <string name="app_hello">Hai Windi Siswandi</string>
+    <string name="app_welcome">Selamat datang kembali</string>
+    <string name="app_rekomendedfood">Rekomendasi Makanan</string>
+    <string name="name_menu_food_padang">Makanan Padang</string>
+    <string name="name_menu_food_lombok">Makanan Lombok</string>
+    <string name="name_menu_food_palembang">Makanan Palembang</string>
+    <string name="name_menu_food_aceh">Makanan Aceh</string>
+    <string name="profile_namaPengguna">Nama Pengguna</string>
+    <string name="profile_name">Nama</string>
+    <string name="profile_class_semester">Kelas/Semester</string>
+    <string name="profile_nim">Nomor Induk Mahasiswa</string>
+    <string name="profile_prodi">Prodi</string>
+    <string name="profile_hobi">Hobi</string>
+    <string name="profile_title">Profile Saya</string>
+    <string name="profile_order">Pesan Sekarang</string>
+
+    //Data Makanan Padang
+    <string name="padang_satepadang_name">Sate Padang</string>
+    <string name="padang_satepadang_price">Rp 35.000</string>
+    <string name="padang_satepadang_size">Sedang</string>
+    <string name="padang_satepadang_descpripsi">Nama makanan khas Padang ini berasal dari tempat asalnya. Sate padang adalah sate khas dari Padang. Terbuat dari daging sapi yang dibakar disiram dengan kuah yang mirip dengan kuah kare.</string>
+
+    <string name="padang_dendengbalado_name">Dendeng Balado Padang</string>
+    <string name="padang_dendengbalado_price">Rp 160.000</string>
+    <string name="padang_dendengbalado_size">Besar</string>
+    <string name="padang_dendengbalado_descpripsi">Dendeng terbuat dari daging sapi yang dikeringkan. Makanan yang ditemukan oleh masyarakat Minangkabau ini menjadi hidangan yang populer di nusantara. Dendeng balado dan dendeng batokok sejatinya sama.</string>
+
+    <string name="padang_sotopadang_name">Soto Padang</string>
+    <string name="padang_sotopadang_price">Rp 40.000</string>
+    <string name="padang_sotopadang_size">Sedang</string>
+    <string name="padang_sotopadang_descpripsi">Soto merupakan sajian kuliner berkuah yang hampir ada di setiap penjuru nusantara. Salah satu varian soto yang cukup favorit di kalangan masyarakat adalah soto padang.</string>
+
+    <string name="padang_ikanbalado_name">Ikan Balado</string>
+    <string name="padang_ikanbalado_price">Rp 52.000</string>
+    <string name="padang_ikanbalado_size">Kecil</string>
+    <string name="padang_ikanbalado_descpripsi">Ikan balado merupakan ikan yang dimasak dengan bumbu balado berisi cabe, tomat, jeruk nipis, bawang merah, garam, gula, dan air. Rasanya pedas manis, sangat cocok dengan kebanyakan lidah orang Indonesia.</string>
+
+    //Data Makanan Lombok
+    <string name="lombok_pelecinglombok_name">Pelecing Lombok</string>
+    <string name="lombok_pelecinglombok_price">Rp 10.000</string>
+    <string name="lombok_pelecinglombok_size">Kecil</string>
+    <string name="lombok_pelecinglombok_descpripsi">Makanan khas Lombok Barat yang satu ini sudah cukup terkenal. Terbuat dari sayuran jenis kangkung lombok yang ukuran dan teksturnya lebih besar dari kangkung luar.</string>
+
+    <string name="lombok_ayamtaliwang_name">Ayam Taliwang</string>
+    <string name="lombok_ayamtaliwang_price">Rp 25.000</string>
+    <string name="lombok_ayamtaliwang_size">Besar</string>
+    <string name="lombok_ayamtaliwang_descpripsi">Kuliner ini sangatlah terkenal bahkan sampai ke luar Lombok. Satu porsi ayam utuh berlumurkan bumbu khas Lombok untuk ayam taliwang kemudian dimasak dengan cara dibakar ataupun digoreng, cocok disajikan dengan sepiring nasi hangat dan sambal khas Lombok.</string>
+
+    <string name="lombok_satebulayak_name">Sate Bulayak</string>
+    <string name="lombok_satebulayak_price">Rp 20.000</string>
+    <string name="lombok_satebulayak_size">Sedang</string>
+    <string name="lombok_satebulayak_descpripsi">Sate bulayak merupakan sajian kuliner khas Lombok yang berisi sate dan bulayak. Bulayak merupakan sejenis ketupat namun bentuknya bulat panjang dan bungkusnya berasal dari daun aren.</string>
+
+    <string name="lombok_nasicampur_name">Nasi Campur</string>
+    <string name="lombok_nasicampur_price">Rp 10.000</string>
+    <string name="lombok_nasicampur_size">Sedang</string>
+    <string name="lombok_nasicampur_descpripsi">Nasi campur merupakan makanan khas Lombok di Gili Trawangan yang dapat kamu coba apabila kamu menginap di sekitaran gili. Sepengelaman penulis, nasi campur merupakan makanan termurah yang dijual di gili khususnya Gili Trawangan.</string>
+
+    //Data Makanan Palembang
+    <string name="palembang_pempekpalembang_name">Pempek Palembang</string>
+    <string name="palembang_pempekpalembang_price">Rp 26.000</string>
+    <string name="palembang_pempekpalembang_size">Kecil</string>
+    <string name="palembang_pempekpalembang_descpripsi">Pempek adalah makanan tradisional yang terbuat dari ikan dan sagu. Jenis ikan yang digunakan adalah ikan tenggiri. Ikan yang dicampur dengan sagu dicetak kemudian direbus.</string>
+
+    <string name="palembang_tekwan_name">Tekwan</string>
+    <string name="palembang_tekwan_price">Rp 18.000</string>
+    <string name="palembang_tekwan_size">Kecil</string>
+    <string name="palembang_tekwan_descpripsi">Satu porsi tekwan berisi bakso ikan, mie putih, dan kuah bening dengan citarasa yang khas. Kuah tersebut terbuat dari kaldu kepala udang dan daun bawang sehingga sangat gurih dan lezat.</string>
+
+    <string name="palembang_burgopalembang_name">Burgo Palembang</string>
+    <string name="palembang_burgopalembang_price">Rp 8.000</string>
+    <string name="palembang_burgopalembang_size">Sedang</string>
+    <string name="palembang_burgopalembang_descpripsi">Makanan yang satu ini terbuat dari adonan tepung sagu dan tepung beras kemudian dimasak seperti dadar tipis. Dadar tersebut kemudian digulung dan di iris agak besar sehingga tampilannya menyerupai kwetiau.</string>
+
+    <string name="palembang_miecelor_name">Mie Celor</string>
+    <string name="palembang_miecelor_price">Rp 15.000</string>
+    <string name="palembang_miecelor_size">Sedang</string>
+    <string name="palembang_miecelor_descpripsi">Mie celor merupakan hidangan sumber karbohidrat yang dapat menggantikan nasi atau umbi-umbian. Kandungan karbohidratnya berasal dari penggunaan mie telur, santan, dan tepung kanji. Kandungan protein dalam mie celor berasal dari udang, suwiran ayam, dan telur rebus.</string>
+
+    //Data Makanan Aceh
+    <string name="aceh_mieaceh_name">Mie Aceh</string>
+    <string name="aceh_mieaceh_price">Rp 18.000</string>
+    <string name="aceh_mieaceh_size">Sedang</string>
+    <string name="aceh_mieaceh_descpripsi">Mie Aceh merupakan salah satu makanan khas asli Aceh yang terbuat dari bahan utama tepung terigu dan dimasak menggunakan bumbu pedas berwarna merah khas Aceh.</string>
+
+    <string name="aceh_nasigurih_name">Nasi Gurih</string>
+    <string name="aceh_nasigurih_price">Rp 15.000</string>
+    <string name="aceh_nasigurih_size">Sedang</string>
+    <string name="aceh_nasigurih_descpripsi">Nasi Gurih khas Aceh memiliki resep yang menyerupai nasi uduk. Penyajiannya kerap bersama lauk-lauk seperti ikan lado, telur dadar, maupun ikan goreng.</string>
+
+    <string name="aceh_ayamtangkap_name">Ayam Tangkap</string>
+    <string name="aceh_ayamtangkap_price">Rp 60.000</string>
+    <string name="aceh_ayamtangkap_size">Besar</string>
+    <string name="aceh_ayamtangkap_descpripsi">Bahan untuk membuat Ayam Tangkap adalahi potongan ayam goreng yang dioseng bersama daun teumura dan cabai hijau, serta ditaburi bawang goreng. Berbagai rumah makan di Aceh yang menjual menu ini </string>
+
+    <string name="aceh_sambelasamudeung_name">Sambel Asam Udeung</string>
+    <string name="aceh_sambelasamudeung_price">Rp 10.000</string>
+    <string name="aceh_sambelasamudeung_size">Kecil</string>
+    <string name="aceh_sambelasamudeung_descpripsi">Kuliner ini punya warna kecoklatan dengan sedikit memperlihatkan aksen hijau. Bahan-bahan untuk membuat Sambal Asam Udeung meliputi belimbing wuluh, serta campuran rempah-rempah dan udang kali.</string>
+
+</resources>
